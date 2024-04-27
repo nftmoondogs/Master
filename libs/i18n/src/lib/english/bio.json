@@ -3,6 +3,7 @@
     "media": "/assets/logo/small.gif",
     "details": {
       "heading": "Bio",
+      "caption": ".",
       "name": "$GhostFace Token",
       "description": "Hard-working developer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction. Diverse experience with modern technologies and cloud providers like AWS and GCP with enterprise DevOps experience. Likes to contribute to open-source and create apps on his free time."
     }
