@@ -24,7 +24,7 @@ const LandingPage = () => {
                   <img src={en.landing.bio.media} alt="profile" />
                 </div>
                 <div className="infos">
-                  <h4>{en.landing.bio.caption}</h4>
+
                   <h1>{en.landing.bio.heading}</h1>
                   <p>{en.landing.bio.description}</p>
                   <br />
@@ -34,7 +34,7 @@ const LandingPage = () => {
                     }}
                   ></p>
                   <br />
-                  <p>{en.landing.bio.location}</p>
+
                   <Link href={en.landing.bio.button.link} className="about-btn">
                     <img
                       src={getThemedContent(theme, en.landing.bio.button.icon)}
