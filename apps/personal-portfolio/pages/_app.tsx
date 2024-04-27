@@ -66,8 +66,8 @@ const CustomApp = ({ Component, pageProps }: AppProps) => {
           }}
         >
           <Head>
-            <title>Sal Anvarov - Personal Portfolio</title>
-            <meta name="title" content="Sal Anvarov" />
+            <title>$GhostFace Token</title>
+            <meta name="title" content="$GhostFace Token" />
             <meta
               name="description"
               content="Hard-working developer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction. Diverse experience with modern technologies and cloud providers like AWS and GCP with enterprise DevOps experience. Likes to contribute to open-source and create apps on his free time."
@@ -76,7 +76,7 @@ const CustomApp = ({ Component, pageProps }: AppProps) => {
             {/* <!-- Open Graph / Facebook --> */}
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://www.sal-anvarov.com/" />
-            <meta property="og:title" content="Sal Anvarov" />
+            <meta property="og:title" content="$GhostFace Token" />
             <meta
               property="og:description"
               content="Hard-working developer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction. Diverse experience with modern technologies and cloud providers like AWS and GCP with enterprise DevOps experience. Likes to contribute to open-source and create apps on his free time."
@@ -92,7 +92,7 @@ const CustomApp = ({ Component, pageProps }: AppProps) => {
               property="twitter:url"
               content="https://www.sal-anvarov.com/"
             />
-            <meta property="twitter:title" content="Sal Anvarov" />
+            <meta property="twitter:title" content="$GhostFace Token" />
             <meta
               property="twitter:description"
               content="Hard-working developer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction. Diverse experience with modern technologies and cloud providers like AWS and GCP with enterprise DevOps experience. Likes to contribute to open-source and create apps on his free time."

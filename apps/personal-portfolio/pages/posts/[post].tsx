@@ -101,7 +101,7 @@ const PostPage = ({ content, frontMatter, posts }: PostPageProps) => {
         <>
           <meta name="description" content={frontMatter.description} />
           <meta name="keywords" content={frontMatter.category} />
-          <meta name="author" content={'Sal Anvarov'} />
+          <meta name="author" content={'$GhostFace Token'} />
           <meta property="og:title" content={frontMatter.title} />
           <meta property="og:description" content={frontMatter.description} />
           <meta

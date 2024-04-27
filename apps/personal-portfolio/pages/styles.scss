@@ -19,9 +19,9 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  font-size: 14px;
+  font-size: 17px;
   scroll-behavior: smooth;
-  color: #9f9f9f;
+  color: #ff00dd;
   background: #0f0f0f;
   line-height: 19.2px;
 }
@@ -39,7 +39,7 @@ a {
 }
 
 .text-primary-color {
-  color: var(--primary_color);
+  color: #ff00dd; // Bright green
 }
 
 .container {
@@ -515,7 +515,7 @@ ol {
       margin: 0;
 
       span {
-        color: var(--primary_color);
+        color: #00ff00; // Bright green
       }
     }
 
@@ -1959,7 +1959,7 @@ ol {
     font-weight: 500;
 
     span {
-      color: var(--primary_color);
+      color: #00ff00; // Bright green
     }
   }
 }

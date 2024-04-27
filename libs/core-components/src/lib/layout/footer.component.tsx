@@ -6,27 +6,18 @@ export const Footer = () => {
       <div className="container">
         <div className="footer-content text-center">
           <Link href="/" className="logo">
-            <img src="/assets/logo/logo.png" alt="Logo" />
+            <img src="/assets/logo/small.gif" alt="Logo" />
           </Link>
           <ul className="footer-menu">
             <li>
-              <Link href="/">Landing</Link>
+              <Link href="/">Twitter</Link>
             </li>
             <li>
-              <Link href="/bio">Bio</Link>
-            </li>
-            <li>
-              <Link href="/portfolio">Portfolio</Link>
-            </li>
-            <li>
-              <Link href="/posts">Blog</Link>
-            </li>
-            <li>
-              <Link href="/contact">Contact</Link>
+              <Link href="/bio">Telegram</Link>
             </li>
           </ul>
           <p className="copyright">
-            Made with 💙 and ☕ by <span>Sal Anvarov</span>
+             <span>$GhostFace Token</span>
           </p>
         </div>
       </div>

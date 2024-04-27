@@ -1,13 +1,12 @@
 {
   "bio": {
-    "heading": "Sal Anvarov.",
-    "caption": "Designer & Full Stack Developer",
-    "description": "System designer, strategist and web development guru. Builds UX rich and performant websites. Sal had the privilege of building software and consulting for start-ups and big corporations.",
-    "descriptionExtended": "Currently contributing to the design and development efforts at <span class='text-primary-color'>Oproma</span>.",
-    "location": "📍 Based in Toronto.",
-    "media": "/assets/3d-headshot.png",
+    "heading": "$GhostFace",
+    "description": "",
+    "descriptionExtended": "<span class='text-primary-color'>demonic laughter echoes Did you hear that? It's the sound of your worst nightmare becoming reality! I am $GhostFace, the only terrifying Sol meme token! Hell is in my Code</span>",
+
+    "media": "/assets/logo/1.gif",
     "button": {
-      "link": "/bio",
+      "link": "/",
       "icon": {
         "light": "/assets/icons/icon-2.svg",
         "dark": "/assets/icons/icon.svg"
@@ -15,11 +14,11 @@
     }
   },
   "credentials": {
-    "heading": "Qualifications",
-    "caption": "A little on Sal",
-    "media": "/assets/credentials.png",
+    "heading": "Solana Take Over!",
+    "caption": "Let's make it the Top Ghost token on Solana",
+    "media": "/assets/logo/2.gif",
     "button": {
-      "link": "/credentials",
+      "link": "/",
       "icon": {
         "light": "/assets/icons/icon-2.svg",
         "dark": "/assets/icons/icon.svg"
@@ -27,9 +26,9 @@
     }
   },
   "cv": {
-    "heading": "Portfolio",
-    "caption": "CV",
-    "media": "/assets/portfolio.png",
+    "heading": "Jupiter Strict List",
+    "caption": "We have already applied for",
+    "media": "/assets/logo/7.gif",
     "button": {
       "link": "/portfolio",
       "icon": {
@@ -39,9 +38,9 @@
     }
   },
   "blog": {
-    "caption": "Explore Blog",
-    "heading": "Blog",
-    "media": "/assets/blog.png",
+    "caption": "",
+    "heading": "PikaBOO👻",
+    "media": "/assets/logo/9.gif",
     "button": {
       "link": "/posts",
       "icon": {
@@ -51,14 +50,12 @@
     }
   },
   "offerings": {
-    "heading": "Offerings",
-    "caption": "Explore offerings",
+
     "link": "/offerings",
+    "media": "/assets/logo/8.gif",
+
     "icons": [
-      "iconoir-figma",
-      "iconoir-input-output",
-      "iconoir-design-pencil",
-      "iconoir-code"
+
     ],
     "button": {
       "link": "/offerings",
@@ -69,9 +66,9 @@
     }
   },
   "profiles": {
-    "heading": "Profiles",
-    "caption": "Stay Connected",
-    "media": null,
+    "heading": "Socials",
+    "caption": "Join The GhostFace Community",
+    "media": "/assets/logo/4.gif",
     "button": {
       "link": "/contact",
       "icon": {
@@ -82,11 +79,11 @@
     "profiles": [
       {
         "link": "https://github.com/msanvarov",
-        "icon": "iconoir-github"
+        "icon": "iconoir-twitter"
       },
       {
         "link": "https://linkedin.com/in/sal-anvarov",
-        "icon": "iconoir-globe"
+        "icon": "iconoir-telegram"
       }
     ]
   },
@@ -107,7 +104,7 @@
     ]
   },
   "contact": {
-    "heading": "Let's <br /> collaborate <span>together.</span>",
+    "heading": "Get $GhostFace <br /> from <span>Pump.fun</span>",
     "media": "/assets/icons/icon2.png",
     "button": {
       "link": "/contact",

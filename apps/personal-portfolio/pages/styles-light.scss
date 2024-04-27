@@ -398,7 +398,7 @@
         margin: 0;
 
         span {
-          color: var(--primary_color);
+          color: #00ff00; // Bright green
         }
       }
 
@@ -1185,7 +1185,7 @@
         }
 
         .name {
-          color: var(--primary_color);
+          color: #00ff00; // Bright green
           font-size: 18px;
           margin-bottom: 4px;
         }
@@ -1647,7 +1647,7 @@
         margin-bottom: 30px;
 
         span {
-          color: var(--primary_color);
+          color: #00ff00; // Bright green
         }
       }
 
@@ -1822,7 +1822,7 @@
         transition: 0.3s;
 
         &:hover {
-          color: var(--primary_color);
+          color: #00ff00; // Bright green
         }
       }
     }
@@ -1834,7 +1834,7 @@
       font-weight: 500;
 
       span {
-        color: var(--primary_color);
+        color: #00ff00; // Bright green
       }
     }
   }

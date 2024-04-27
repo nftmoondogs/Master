@@ -29,7 +29,12 @@ export const Header = () => {
       <div className="container">
         <div className="gx-row d-flex align-items-center justify-content-between">
           <Link href="/" className="logo">
-            <img src="/assets/logo/logo.png" alt="Logo" />
+          <div className="overflow-hidden rounded-xl">
+  <img src="/assets/logo/small.gif" alt="Logo" className="w-full h-full object-cover" />
+</div>
+
+
+
           </Link>
           <nav
             className={classNames('navbar', { active: displayMobileNavbar })}
