@@ -10,5 +10,6 @@ export const en = {
   contact,
   credentials,
   landing,
+  offerings,
   portfolio,
 };
