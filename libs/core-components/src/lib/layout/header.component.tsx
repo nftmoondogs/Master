@@ -39,15 +39,7 @@ export const Header = () => {
           <nav
             className={classNames('navbar', { active: displayMobileNavbar })}
           >
-            <ul className="menu">
-              {menu.map((entry, i) => (
-                <li className={isOnPath(entry.path)} key={i}>
-                  <Link href={entry.path} onClick={handleToggle}>
-                    {entry.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+
             <a
               className="theme-btn"
               href="https://calendly.com/msalanvarov"
