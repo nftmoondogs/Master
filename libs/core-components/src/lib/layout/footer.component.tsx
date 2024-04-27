@@ -10,10 +10,10 @@ export const Footer = () => {
           </Link>
           <ul className="footer-menu">
             <li>
-              <Link href="/">Twitter</Link>
+              <Link href="findttt">Twitter</Link>
             </li>
             <li>
-              <Link href="/bio">Telegram</Link>
+              <Link href="https://t.me/ghostfacetoken">Telegram</Link>
             </li>
           </ul>
           <p className="copyright">
