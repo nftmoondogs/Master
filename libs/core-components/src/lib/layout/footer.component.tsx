@@ -10,7 +10,7 @@ export const Footer = () => {
           </Link>
           <ul className="footer-menu">
             <li>
-              <Link href="findttt">Twitter</Link>
+              <Link href="https://twitter.com/ghostfacetoken">Twitter</Link>
             </li>
             <li>
               <Link href="https://t.me/ghostfacetoken">Telegram</Link>
